@@ -1,10 +1,10 @@
-About this site
+Om denna webbplats
 ==============================================
 
-The primary focus of this site is to:
+Huvudfokus för denna webbplats är:
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+* Att bygga upp den mer och mer allt efter kursen [dbwebb kurs design](http://dbwebb.se/design).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Källkoden för denna webbplats finns tillgänglig på GitHub: [anebar/anax-flat](https://github.com/anebar/anax-flat).<img src="img/github.jpg" style="float:right" Markdown=1>
 
-This site is produced by [Anette](https://).
+Denna webbplats är gjord av [Anette](https://).

@@ -1,4 +1,4 @@
-Contact
+Kontakt
 ==============================================
 
-Any questions about this site can be emailed to [Anette](https://).
+Frågor om webbplatsen kan skickas till [Anette](https://).

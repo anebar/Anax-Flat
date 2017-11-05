@@ -2,4 +2,4 @@
 
 För att bygga webbplatser baserade på markup documents och konfiguration i YAML.
 
-[Uppgiften i första kursmomentet](http://dbwebb.se/kunskap/bygg-me-sida-med-anax-flat).
+[Uppgiften i första kursmomentet](https://dbwebb.se/uppgift/me-sida-med-anax-flat).
