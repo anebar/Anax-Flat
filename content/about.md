@@ -7,4 +7,6 @@ Huvudfokus för denna webbplats är:
 
 Källkoden för denna webbplats finns tillgänglig på GitHub: [anebar/anax-flat](https://github.com/anebar/anax-flat).<img src="img/github.JPG" style="float:right" Markdown=1>
 
+Källkoden gällande tema för denna webbplats finns tillgänglig på GitHub: [anebar/anax-flat-theme](https://github.com/anebar/anax-flat-theme).<img src="img/github.JPG" style="float:right" Markdown=1>
+
 Denna webbplats är gjord av [Anette](https://).

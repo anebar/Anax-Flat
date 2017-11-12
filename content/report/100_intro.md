@@ -31,3 +31,10 @@ Information inom kursen *design*.
 [Markdown syntax](https://en.wikipedia.org/wiki/Markdown#Example)  
 [Unsplash](https://unsplash.com/)  
 [github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+
+Kommandon
+---
+make upgrade-normalize  
+make test
+make check
+make upgrade
