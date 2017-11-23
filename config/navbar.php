@@ -29,6 +29,17 @@ return [
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("En testsida")
             ],
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Visa vertikal grid"),
+                "mark-if-parent" => true,
+            ],
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typografi"),
+            ],
         ],
     ],
 
@@ -57,6 +68,17 @@ return [
                 "text"  => t("Test"),
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("En testsida")
+            ],
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Visa vertikal grid"),
+                "mark-if-parent" => true,
+            ],
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typografi"),
             ],
         ],
     ],
