@@ -19,6 +19,12 @@ return [
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
+            "analysis" => [
+                "text"  => t("Analyser"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analyser"),
+                "mark-if-parent" => true,
+            ],
             "about" => [
                 "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
@@ -39,6 +45,16 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typografi"),
+            ],
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Tema"),
+            ],
+            "theme-selector" => [
+                "text"  => t("Theme selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("theme-selector"),
             ],
         ],
     ],
@@ -59,6 +75,12 @@ return [
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
+            "analysis" => [
+                "text"  => t("Analyser"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analyser"),
+                "mark-if-parent" => true,
+            ],
             "about" => [
                 "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
@@ -79,6 +101,16 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typografi"),
+            ],
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Tema"),
+            ],
+            "theme-selector" => [
+                "text"  => t("Theme selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("theme-selector"),
             ],
         ],
     ],

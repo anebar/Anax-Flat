@@ -25,8 +25,11 @@ return [
             // Style and stylesheets
             //"stylesheets" => ["css/default.min.css"],
             "stylesheets" => [
-                "css/style.min.css",
+                //"css/default.min.css",
+                //"css/style.min.css",
+                "css/typography.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Cabin+Sketch|Calligraffitti|Lato|Playball|Prosto+One",
                 "https://fonts.googleapis.com/css?family=Open+Sans",
                 "https://fonts.googleapis.com/css?family=Lato"
             ],
