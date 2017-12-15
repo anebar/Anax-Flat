@@ -52,9 +52,19 @@ return [
                 "title" => t("Tema"),
             ],
             "theme-selector" => [
-                "text"  => t("Theme selector"),
+                "text"  => t("Temaväljare"),
                 "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("theme-selector"),
+                "title" => t("Temaväljare"),
+            ],
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder"),
+            ],
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg"),
             ],
         ],
     ],
@@ -111,6 +121,11 @@ return [
                 "text"  => t("Theme selector"),
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("theme-selector"),
+            ],
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder"),
             ],
         ],
     ],

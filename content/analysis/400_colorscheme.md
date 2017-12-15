@@ -1,7 +1,7 @@
-Utvärdera webbplatsers färgval och känslan de signalerar
+Färgval och känslan de signalerar
 ===============================
 
-Vi valde en av våra arbetsplatsers hemsida, samt en annan webbplats som fungerar bra responsivt och en äldre webbplats som inte är responsiv.
+Till denna uppgift "Utvärdera webbplatsers färgval och känslan de signalerar" valde vi en av våra arbetsplatsers hemsida, samt en annan webbplats som fungerar bra responsivt och en äldre webbplats som inte är responsiv.
 
 * <a href="#enea">Enea</a>
 * <a href="#katterian">Katterian</a>
@@ -14,7 +14,7 @@ Vi använde Paletton, Adobe Color CC, [An Introduction to Color Theory for Web D
 <span id="enea"></span>[Enea](http://www.enea.com)
 ---
 
-![Enea](img/analysis/Screenshot-Enea.jpg)
+![Enea](img/Screenshot-Enea.jpg)
 
 Enea använder en monokromatisk färgskala där en djup mörkblå ton är basfärgen för heading och footer samt bilder som länkar till andra artiklar.
 
@@ -65,7 +65,7 @@ Mycket trevlig, intressant webbplats där bilderna väl illustrerar det texterna
 <span id="katterian"></span>[Katterian](http://www.katterian.se)
 ---
 
-![Katterian](img/analysis/Screenshot-Katterian.jpg)
+![Katterian](img/Screenshot-Katterian.jpg)
 
 Bakgrundsfärger i huvudet är vitt, för huvuddelen ljust beige och foten är nästan svart. Rubriken i headern är röd vilken återkommer som länkfärger. Menynvalen består av enskilda delar med svart bakgrund med vit text. Vid smalt webbfönster ersätts ordinarie meny av en lista med menyval. Färgschemat är monokromt med roströd accentfärg.
 
@@ -108,7 +108,7 @@ Typsnittet är lättläst, men stelt. Titelraden sticker ut något mer lekfullt.
 <span id="yale"></span>[Yale School of Arts](http://art.yale.edu)
 ---
 
-![Yale School of Arts](img/analysis/Screenshot-YaleArt.jpg)
+![Yale School of Arts](img/Screenshot-YaleArt.jpg)
 
 Förutom ovanstående två siter vill vi också titta på någon med i vårt tycke sämre design. Efter en kort utvärdering föll valet på universitetet Yales School of Art. Vår kortfattade analys är att denna är en mindre katastrof. Färgvalet synes genomtänkt där man utgår från sex grundfärger för layout och tre för text. Färgschemat kan närmast beskrivas som en Triadisk analog där man valt två Triadiska färgscheman förskjutna ett steg. Färgvalet till text är monokromt vitt, svart och en grå nyans. Accentfärger används inte. Fontfamiljen som används i stort är "Arial, Helvetica, sans-serif".
 
@@ -142,8 +142,6 @@ h4-h6: används inte
         <td style="background-color: #FFFFFF;" class="dark">#FFFFFF</td>
     </tr>
 </table>
-
-<a href="#">Back to top</a>
 
 
 Grupparbete
