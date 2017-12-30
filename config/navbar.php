@@ -51,10 +51,15 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Tema"),
             ],
-            "theme-selector" => [
-                "text"  => t("Temaväljare"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("Temaväljare"),
+            "design-element" => [
+                "text"  => t("Design element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Design element"),
+            ],
+            "design-principle" => [
+                "text"  => t("Design principer"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Design principer"),
             ],
             "images" => [
                 "text"  => t("Bilder"),
@@ -117,15 +122,25 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Tema"),
             ],
-            "theme-selector" => [
-                "text"  => t("Theme selector"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("theme-selector"),
+            "design-element" => [
+                "text"  => t("Design element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Design element"),
+            ],
+            "design-principle" => [
+                "text"  => t("Design principer"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Design principer"),
             ],
             "images" => [
                 "text"  => t("Bilder"),
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Bilder"),
+            ],
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg"),
             ],
         ],
     ],

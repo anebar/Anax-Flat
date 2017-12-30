@@ -25,6 +25,7 @@ views:
         template: default/blog-toc
         sort: 2
         data:
+            title: Nuvarande inlägg
             meta:
                 type: copy
                 view: blog-list

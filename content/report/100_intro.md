@@ -12,10 +12,10 @@ Nedan följer lite allmän information om redovisning mm.
 git status  
 git add .  
 git status  
-git commit -a -m "Added report text for kmom01"  
+git commit -a -m "Files and report for task kmom05"  
 git push  
 **Nu kan vi tagga koden med en version**  
-git tag -a 1.0.2 -m "Added report text for kmom01"  
+git tag -a 1.0.2 -m "Files and report for task kmom05"  
 git push --tags  
 git tag  
 3. Ladda upp och publicera din kurskatalog  
@@ -25,6 +25,13 @@ git tag
 5. Kopiera redovisningstexten till ITs  
 6. Hur testas mitt resultat?  
 `dbwebb inspect kmom01`
+
+Kommandon
+---
+make upgrade-normalize  
+make test
+make check
+make upgrade
 
 Information inom kursen *design*.
 ---
@@ -52,11 +59,77 @@ LESS-kod
 
 Andra källor
 ---
-[UI, UX: Who Does What? A Designer’s Guide To The Tech Industry](https://www.fastcodesign.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry)
+[UI, UX: Who Does What? A Designer’s Guide To The Tech Industry](https://www.fastcodesign.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry)  
+[An Introduction to Color Theory for Web Designers](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)  
+[How Fast Should A Website Load in 2017?](https://www.hobo-web.co.uk/your-website-design-should-load-in-4-seconds/)  
+[The Characteristics of Minimalism in Web Design](https://www.nngroup.com/articles/characteristics-minimalism/)  
+[Top 10 Mistakes in Web Design](https://www.nngroup.com/articles/top-10-mistakes-web-design/)  
+[Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
 
-Kommandon
+kmom06
 ---
-make upgrade-normalize  
-make test
-make check
-make upgrade
+
+[Multi-Device Content](https://developers.google.com/web/fundamentals/design-and-ux/responsive/content?hl=en)  
+[active and passive voice](https://learnenglish.britishcouncil.org/en/english-grammar/verbs/active-and-passive-voice)  
+[High performance HTML](https://samdutton.wordpress.com/2015/04/02/high-performance-html/)  
+[Animations](https://developers.google.com/web/fundamentals/design-and-ux/animations/)  
+[Animations and Performance ](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance)  
+[List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters)  
+[We Love Icon Fonts](http://weloveiconfonts.com)  
+[CSS Sprites](https://css-tricks.com/css-sprites/)  
+[Inline SVG vs Icon Fonts](https://css-tricks.com/icon-fonts-vs-svg/)  
+[Making the Switch Away from Icon Fonts to SVG: Converting Font Icons to SVG](https://www.sarasoueidan.com/blog/icon-fonts-to-svg/)  
+<a href="https://en.wikipedia.org/wiki/Visual_design_elements_and_principles">Visual design elements och principles</a>  
+<a href="https://www.youtube.com/playlist?list=PLKtP9l5q3ce-oz7aoBkk-oEn4xzGbtqxU">Design – principer och element</a>  
+<a href="http://www.educ.kent.edu/community/VLO/Design/principles/">Visual Literacy</a>  
+<a href="https://www.canva.com/learn/design-elements-principles/">Design Elements &amp; Principles</a>   
+<a href="http://codepen.io/search/pens?q=effects">CodePen sökning på “effects”</a>  
+[Tinted Images with Multiple Backgrounds](https://css-tricks.com/tinted-images-multiple-backgrounds/)  
+
+[Design Elements & Principles](https://www.canva.com/learn/design-elements-principles/)  
+
+###Design element - verktyg för att utföra designprinciper
+
+* Punkter
+* Line - Streck  
+* Shape - Former
+* Texture - Texturer, mönster
+* Color - Färger
+* Gradients
+* Kontrast
+* Typografi
+* Bilder
+* Bakgrund
+* Genomskinlighet
+* 3D effekt
+
+
+###Designprinciper - designtekniker kan uppnås vis grundtekniker, sätta ord på "något saknas i din design"
+
+* Line
+* Scale
+* Colour
+* Repetition
+* Negative space
+* Symmetry
+* Transparency
+* Texture
+* Balance - Balans (symmetrisk, assymmetrisk)
+* Hierarchy
+* Contrast
+* Framing
+* Grid
+* Randomness
+* Direction
+* Rules
+* Movement - Rörelse
+* Depth/Perspective - Perspektiv
+* Typography
+* Composition
+
+[Föreläsning](https://www.youtube.com/watch?v=TC4srpF6UnQ)
+
+* Harmony - Harmoni
+* Unity
+* Variety - Variation
+* Proximity

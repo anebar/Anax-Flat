@@ -101,5 +101,53 @@ return [
                 "https://fonts.googleapis.com/css?family=Cabin+Sketch|Calligraffitti|Lato|Playball|Prosto+One"
             ]
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "designElement1"       => [
+            "title"      => "Design element 1",
+            "class"      => "designElement1",
+            "stylesheets" => [
+                "css/designElement1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Cabin+Sketch|Calligraffitti|Lato|Playball|Prosto+One"
+            ]
+        ],
+        "designElement2"       => [
+            "title"      => "Design element 2",
+            "class"      => "designElement2",
+            "stylesheets" => [
+                "css/designElement2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Cabin+Sketch|Calligraffitti|Lato|Playball|Prosto+One"
+            ]
+        ],
+        "designElement3"       => [
+            "title"      => "Design element 3",
+            "class"      => "designElement3",
+            "stylesheets" => [
+                "css/designElement3.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Cabin+Sketch|Calligraffitti|Lato|Playball|Prosto+One"
+            ]
+        ],
+        "designPrinciple1"       => [
+            "title"      => "Design princip 1",
+            "class"      => "designPrinciple1",
+            "stylesheets" => [
+                "css/designElement3.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Cabin+Sketch|Calligraffitti|Lato|Playball|Prosto+One"
+            ]
+        ],
+        "designPrinciple2"       => [
+            "title"      => "Design princip 2",
+            "class"      => "designPrinciple2",
+            "stylesheets" => [
+                "css/designPrinciple2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Cabin+Sketch|Calligraffitti|Lato|Playball|Prosto+One"
+            ]
+        ],
     ]
 ];
