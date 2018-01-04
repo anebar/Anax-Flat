@@ -10,7 +10,7 @@ Design element
 <div class="bkgBox4">
 </div>
 <div class="themeSelector">
-    <a href="http://localhost:8080/design/me/anax-flat/htdocs/theme-selector">Temaväljare</a>
+    <a href="theme-selector">Temaväljare</a>
 </div>
 
 Tema Design element 1

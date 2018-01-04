@@ -14,6 +14,9 @@ git add .
 git status  
 git commit -a -m "Files and report for task kmom05"  
 git push  
+*Om fel commit-text:*  
+git commit --amend -m "New commit message"  
+git push --force  
 **Nu kan vi tagga koden med en version**  
 git tag -a 1.0.2 -m "Files and report for task kmom05"  
 git push --tags  
